@@ -1,0 +1,21 @@
+{
+  "name": "getweather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanaGuzienko/getWeather.git"
+  },
+  "author": "YANA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YanaGuzienko/getWeather/issues"
+  },
+  "homepage": "https://github.com/YanaGuzienko/getWeather#readme",
+  "dependencies": {}
+}
